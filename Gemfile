@@ -7,8 +7,6 @@ gem 'rails_12factor', group: :production
 
 gem 'pg'
 
-gem 'ruby', '2.0.0p353'
-
 # Use sqlite3 as the database for Active Record
 group :development, :test do
   gem 'sqlite3'
